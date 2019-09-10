@@ -1,0 +1,16 @@
+Automobile ID,Model,Model Year,City Range,Highway Range,City Fuel Economy,City Fuel Economy Units,Highway Fuel Economy,Highway Fuel Economy Units,Battery Type,Battery Voltage Amps,110v Charge Time,220v Charge Time,Manufacturer,Fuel,Category
+928,Roadster 2.5,2009,230,230,,,,,,,,45 minutes,Tesla Motors,Electric,Sedan/Wagon
+44,Chevrolet S-10 L/A,1999,47,35,45,kWh/100miles,41,kWh/100miles,lead-acid,312V,Not recommended,3.5-4 hours,Chevrolet,Electric,Truck
+53,Chevrolet S-10 NiMH,1999,96,,94,kWh/100miles,86,kWh/100miles,Nickel - Metal Hydride,,Not recommended,,Chevrolet,Electric,Truck
+23,Epic Minivan,1999,96,90,67,kWh/100miles,73,kWh/100miles,nickel metal hydride,360 volts,,8-10 hours,Chrysler,Electric,Van
+37,Ranger EV-Lead Acid,1999,72,77,38,kWh/100miles,44,kWh/100miles,Sealed Lead-acid,312 volts,,,Ford,Electric,Truck
+51,Ranger EV-NiMH,1999,77,77,0,,0,,Nickel-Metal Hydride,300 volts,,,Ford,Electric,Truck
+43,EV1-Lead Acid,1999,79,79,30,kWh/100miles,25,kWh/100miles,Lead acid,312 V,15 hours,3 hours,General Motors EV,Electric,Sedan/Wagon
+52,EV1-NiMH,1999,79,79,34,kWh/100miles,30,kWh/100miles,Nickel - Metal Hydride,343,15 hours,3 hours,General Motors EV,Electric,Sedan/Wagon
+26,EV Plus,1999,100,84,49,kWh/100miles,51,kWh/100miles,Nickel-metal hydride,288,,6-8 hours,Honda,Electric,Sedan/Wagon
+47,Altra EV,1999,120,80,30,kWh/100miles,34,kWh/100miles,Lithium-ion,345V,,5 hours,Nissan,Electric,Sedan/Wagon
+29,CitiVan,1999,40,,8.5,kWh/100miles,,kWh/100miles,"Sealed, maint.-free, lead-acid",312V nominal,20 hours,10 hours,Solectria,Electric,Van
+32,Force Lead Acid,1999,57,49,13.7,kWh/100miles,,kWh/100miles,"Sealed, maint-free, lead-acid",156V nominal,6-8 hours,3.5 hours,Solectria,Electric,Sedan/Wagon
+31,Force NiCd,1999,106,71,13.7,kWh/100miles,,kWh/100miles,Nickel Cadmium,156V nominal,0,6 hours,Solectria,Electric,Sedan/Wagon
+12,Chevrolet S-10,1998,80,70,94,kWh/100miles,86,kWh/100miles,nickel-metal hydride,330 volts,Not recommended,6-8 hours,Chevrolet,Electric,Truck
+3,EV Plus,1998,80,60,100,miles per charge,84,miles per charge,nickel-metal hydride,,,6-8 hours,Honda,Electric,Sedan/Wagon
