@@ -1,2 +1,2 @@
-# ev_project-
-Marcus DeMarici, Michael Pearson, Edgardo Bungay Data Science Project on Electric Vehicles. 
+# Project-1-
+First data science project
